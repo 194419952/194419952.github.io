@@ -1,0 +1,57 @@
+.content2 .leftss {
+  width: 450px;
+  height: 280px;
+  margin-top: 40px;
+  margin-left: 20px;
+  background-color: pink;
+  float: left;
+}
+.content2 .leftss img {
+  width: 100%;
+  height: 100%;
+}
+.content2 .rights {
+  margin-top: 40px;
+  float: left;
+  width: 550px;
+  height: 280px;
+  margin-left: 40px;
+  background-color: #ffffff;
+}
+.content2 .rights h3 {
+  text-align: center;
+  line-height: 60px;
+  font-weight: 500;
+  font-size: 25px;
+  letter-spacing: 8px;
+}
+.content2 .rights .box3 {
+  padding: 0 80px;
+  width: 100%;
+  height: 60px;
+}
+.content2 .rights .box3 span {
+  float: left;
+  width: 80px;
+  height: 100%;
+  text-align: left;
+  line-height: 60px;
+  font-size: 20px;
+}
+.content2 .rights .box3 input {
+  width: 250px;
+  height: 35px;
+  margin-top: 15px;
+  border: 1px solid #04305d;
+  outline: none;
+  padding-left: 20px;
+}
+.content2 .rights .box3 button {
+  width: 40%;
+  height: 35px;
+  margin-left: 110px;
+  margin-top: 20px;
+  border: 0;
+  background-color: #000000;
+  color: #fff;
+}
